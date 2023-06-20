@@ -17,7 +17,7 @@
 
 /** @type {MetaConfig} */
 const metaConfig = {
-  title: "Red Dev",
+  title: "XCode",
   description: `Arjun's Blog`,
   author: "Arjun",
   siteUrl: "http://localhost:8000/",
