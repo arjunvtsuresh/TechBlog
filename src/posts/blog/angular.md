@@ -9,6 +9,8 @@ alt: "apple and shaking hands"
 
 ## First Angular Project
 
+![Angular](./images/angular/angular.jpg)
+
 ### Install Angular CLI from Command Line USing npm
 
 ```
