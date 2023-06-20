@@ -20,9 +20,9 @@ const metaConfig = {
   title: "XCode",
   description: `Arjun's Blog`,
   author: "Arjun",
-  siteUrl: "http://localhost:8000/",
+  siteUrl: "https://xcodeblog.netlify.app",
   lang: "en",
-  utterances: "",
+  utterances: "arjunvtsuresh/TechBlog",
   links: {
     github: "https://github.com/arjunvtsuresh",
   },
