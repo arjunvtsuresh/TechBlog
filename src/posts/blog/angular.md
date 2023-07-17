@@ -35,3 +35,4 @@ alt: "apple and shaking hands"
     $ npm install -g netlify-cli
 
 ```
+
