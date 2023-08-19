@@ -1,7 +1,7 @@
 # Gatsby Starter Apple
 # Tech Blog:
 ### Visit:
-(https://xcode.blog.netlify.com)
+https://xcode.blog.netlify.app
 
 
 
